@@ -105,3 +105,5 @@ A ideia foi construir algo completo, robusto, e com aplicabilidade real. Cada et
 
 Mais do que uma submissão, esse repositório representa minha evolução como profissional e minha visão sobre o poder da ciência de dados aplicada a problemas reais de negócio.
 >>>>>>> fd281fd (add src modules, notebooks e docs; update README)
+
+- S-last (tight): TARGET_SHARE=0.949, cap p88×1.01, shrink 0.97.
